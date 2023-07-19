@@ -19,15 +19,14 @@ Demonstração deste repositório:
 ## `db.json` padrão
 
 ```json
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+[
+  {
+    "id": 1,
+    "descricao": "Sapato Social New York",
+    "preco": "199.90",
+    "imagem": "produto.webp"
+  }
+]
 ```
 
 ## Referências
@@ -35,3 +34,4 @@ Demonstração deste repositório:
 1. https://github.com/typicode/json-server
 2. https://vercel.com
 3. https://shadowsmith.com/how-to-deploy-an-express-api-to-vercel
+4. https://github.com/kitloong/json-server-vercel
