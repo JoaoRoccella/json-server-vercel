@@ -3,7 +3,7 @@
     { 
       "id": 1, 
       "descricao": "sapato", 
-      "author": "19",
+      "preco": "19",
       "imagem": "produto.webp"
     }
   ]
