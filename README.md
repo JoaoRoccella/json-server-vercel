@@ -1,22 +1,22 @@
-## Deploy JSON Server to Vercel
+## Faça o deploy do JSON Server na Vercel
 
-A template to deploy [JSON Server](https://github.com/typicode/json-server) to [Vercel](https://vercel.com), allow you to run fake REST API online!
+Um template para fazer o deply do [JSON Server](https://github.com/typicode/json-server) na [Vercel](https://vercel.com) permite que você rode uma API REST fake (mock API) online!
 
-Demo from this repository: 
+Demonstração deste repositório: 
 
-1. https://json-server-in.vercel.app
-2. https://json-server-in.vercel.app/api/posts
+1. [https://json-server-vercel-api.vercel.app/](https://json-server-vercel-api.vercel.app/)
+2. [https://json-server-vercel-api.vercel.app/produtos](https://json-server-vercel-api.vercel.app/produtos)
 
-### How to use
+### Como utilizar
 
-1. Click "**Use this template**" or clone this repository.
-2. Update or use the default [`db.json`](./db.json) in the repository.
-3. Sign Up or login into [Vercel](https://vercel.com).
-4. From the Vercel dashboard, click "**+ New Project**" then "**Import**" your repository.
-5. In the "**Configure Project**" screen, leave everything default and click "**Deploy**".
-6. Wait until deployment is done, and your own JSON server is ready to serve!
+1. Clique em "**Use this template**" ou clone este repositório.
+2. Atualize ou utilize o [`db.json`](./db.json) padrão no repositório.
+3. Crie unma conta ou faça login na [Vercel](https://vercel.com).
+4. A partir da dashboard da Vercel, clique "**+ New Project**" e então "**Import**" seu repositório.
+5. Na tela "**Configure Project**", deixe tudo padrão e clique "**Deploy**".
+6. Aguarde até que o deply esteja terminado e o seu próprio JSON Server está pronto para uso!
 
-## Default `db.json`
+## `db.json` padrão
 
 ```json
 {
@@ -30,7 +30,7 @@ Demo from this repository:
 }
 ```
 
-## Reference
+## Referências
 
 1. https://github.com/typicode/json-server
 2. https://vercel.com
