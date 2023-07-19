@@ -14,7 +14,7 @@ Demonstração deste repositório:
 3. Crie uma conta ou faça login na [Vercel](https://vercel.com).
 4. A partir da dashboard da Vercel, clique "**+ New Project**" e então "**Import**" seu repositório.
 5. Na tela "**Configure Project**", deixe tudo padrão e clique "**Deploy**".
-6. Aguarde até que o deply esteja terminado e o seu próprio JSON Server está pronto para uso!
+6. Aguarde até que o deploy esteja terminado e o seu próprio JSON Server está pronto para uso!
 
 ## `db.json` padrão
 
