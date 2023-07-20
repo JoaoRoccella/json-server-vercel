@@ -5,6 +5,18 @@
       "descricao": "Sapato Social New York", 
       "preco": "199.90",
       "imagem": "produto.webp"
+    },
+    { 
+      "id": 2, 
+      "descricao": "Sapato Social Wall Street", 
+      "preco": "299.90",
+      "imagem": "produto.webp"
+    },
+    { 
+      "id": 3, 
+      "descricao": "Sapato Casual Manhattan", 
+      "preco": "99.90",
+      "imagem": "produto.webp"
     }
   ]
 }
